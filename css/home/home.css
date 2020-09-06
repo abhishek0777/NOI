@@ -1,0 +1,42 @@
+html body {
+    color: #1b262c;
+  }
+  .nav-color {
+    background-color: #2d4059;
+    color: #ea5455;
+  }
+  .img {
+    width: 400px;
+    height: 400px;
+    margin: 40px 0 30px 70px;
+  }
+  
+  .topic {
+    text-align: center;
+  }
+  .topic h1 {
+    font-size: 80px;
+    color: #2d4059;
+  }
+  .head {
+    background-color: white;
+  }
+  .icons {
+    width: 100px;
+    height: 100px;
+  }
+  .imgb {
+    background-color: lightblue;
+    width: 150px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #2d4059;
+    height: 150px;
+    box-shadow: 5px 5px 10px #2d4040;
+    border-radius: 50%;
+  }
+  .center {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
